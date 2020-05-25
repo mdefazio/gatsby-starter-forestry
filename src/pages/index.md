@@ -22,7 +22,7 @@ blocks:
 - template: block__feature
   component: feature
   background: light
-  orientation: normal
+  orientation: reverse
   title: Build a Site in Minutes
   content: Our Gatsby starter is pre-configured with support for <strong>markdown</strong>,
     and of course works great with Forestry's CMS.
